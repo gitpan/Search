@@ -1,0 +1,9 @@
+Glimpse.pm
+MANIFEST
+Makefile.PL
+README
+Base.pm
+TextSearch.pm
+test.pl
+test1.file
+test2.file
